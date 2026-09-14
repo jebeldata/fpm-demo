@@ -10,6 +10,10 @@ This repository contains the workflow, analysis code, and licenses associated wi
 File: 
 "FPM Development and Response Elicitation Workflow for 5 Demos.py"
 
+Licenses:
+MIT License
+(Note: The workflow file incorporates ICD-11 terminology and codes from the World Health Organization; see: https://icd.who.int/en/docs/icd11-license.pdf). 
+
 ## Analysis code
 File:
 "FPM Demos Data Analysis.R"
