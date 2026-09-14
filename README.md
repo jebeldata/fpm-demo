@@ -11,7 +11,7 @@ File:
 "FPM Development and Response Elicitation Workflow for 5 Demos.py"
 
 License:
-CC-BY-4.0
+MIT License
 
 ## Analysis code
 File:
